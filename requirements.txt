@@ -7,3 +7,5 @@ keras
 matplotlib
 seaborn
 streamlit
+nltk
+scikeras 
