@@ -55,3 +55,8 @@ from nltk.corpus import gutenberg
 data = gutenberg.raw('shakespeare-hamlet.txt')
 with open('data/hamlet.txt', 'w') as file:
     file.write(data)
+```
+
+## 🌐 Streamlit App
+
+![Streamlit App](images/app.PNG)
