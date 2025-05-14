@@ -60,3 +60,26 @@ with open('data/hamlet.txt', 'w') as file:
 ## 🌐 Streamlit App
 
 ![Streamlit App](images/app.PNG)
+
+
+ ## 🖥️ Installation & Usage
+
+### 🔹 Clone the repository:
+
+```bash
+git clone https://github.com/achraf-bogryn/LSTM-NextWordGen.git
+cd LSTM-NextWordGen
+```
+
+### 🔹 Install the required packages:
+```bash
+pip install -r requirements.txt
+```
+
+### 🔹 Run the Streamlit App:
+```bash
+cd streamlit_App
+streamlit run app.py
+```
+
+
