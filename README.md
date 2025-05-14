@@ -82,4 +82,18 @@ cd streamlit_App
 streamlit run app.py
 ```
 
+### 📦 Project Structure
+```bash 
+sentiment-analysis-imdb/
+│
+├── streamlit_App/app.py                       # Streamlit interface
+├── models/imdb_rnn_model.h5                   # model and transfomation on dataset
+├── images/                                    # Visual assets for README
+├── requirements.txt                           # Dependencies
+├── data/                                      # Data as text file
+├── Lstm/Rnn                                   # Jupyter Notebook  
+└── README.md
+```
+
+
 
