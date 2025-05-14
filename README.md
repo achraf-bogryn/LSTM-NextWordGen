@@ -1,6 +1,6 @@
 # 📚 Next Word Prediction Using LSTM
 
-![Model Architecture](images/lstm-nextword.png)
+![Model Architecture](images/CAPTUR.PNG)
 
 This project applies Long Short-Term Memory (LSTM) networks to predict the **next word** in a given text sequence using Shakespeare’s *Hamlet*. The model learns the structure and patterns of language and generates the next word based on context.
 
